@@ -9,6 +9,7 @@ Eğer oyuncumuz siyah renkli engellere takılırsa yada oyundan aşağıya düş
 ![204594079-a24291e1-5108-4f19-a56b-a3a62d96dbb1](https://user-images.githubusercontent.com/64674920/204644772-0ab02d73-2a31-46d0-aef6-bd2bd6e33d99.png)
 
 #Projeye ekleyemediğimiz Menu 
+
 ![Ekran görüntüsü 2022-11-30 002437](https://user-images.githubusercontent.com/64674920/204652689-3d5dd8dc-8f38-460b-9175-bc902ef87821.png)
 -Mission Completed ibaresi Unity içerisinde hazırladığımız bir animasyondur.
 
